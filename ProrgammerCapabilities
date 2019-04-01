@@ -1,0 +1,11 @@
+Capabilities a software developer should probably have:
+- Working with a cloud based version control system.
+- Ability to create write a simple server.
+- Ability to deploy a server on the cloud.
+- Ability to create a simple dynamic webpage.
+- Ability to work with databases.
+- Understanding a logging framework.
+- Build tool like maven.
+- Basic knowledge of Java (installation, classpath, etc.)
+- Testing (principles and technique)
+- Debugging
