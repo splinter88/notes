@@ -3,6 +3,7 @@ Capabilities a software developer should probably have:
 - Ability to create write a simple server.
 - Ability to deploy a server on the cloud.
 - Ability to create a simple dynamic webpage.
+- Ability to call a RESTful API
 - Ability to work with databases.
 - Understanding a logging framework.
 - Build tool like maven.
